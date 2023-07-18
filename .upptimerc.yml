@@ -10,7 +10,7 @@ sites:
 status-website:
   cname: jhs.status.migraine.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status | Japanese Headache Society
+  name: Status | JHS
   introTitle: "**Status** for Japanese Headache Society"
   introMessage: 日本頭痛学会 ウェブモニター
   navbar:

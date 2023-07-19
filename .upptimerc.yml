@@ -16,6 +16,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://www.jhsnet.net/
     - title: Newsletter
       href: https://www.jhsnet.net/newsletter.html
     - title: JPAC

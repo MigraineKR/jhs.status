@@ -6,6 +6,8 @@ sites:
     url: https://www.jhsnet.net/
   - name: jhsnet.net/english
     url: https://www.jhsnet.net/english.html
+  - name: zutsu-online.jp
+    url: https://zutsu-online.jp/
         
 status-website:
   cname: jhs.status.migraine.kr

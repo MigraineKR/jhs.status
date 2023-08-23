@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 854,
-    "timeDay": 726,
-    "timeWeek": 890,
-    "timeMonth": 850,
+    "timeDay": 776,
+    "timeWeek": 823,
+    "timeMonth": 849,
     "timeYear": 854,
-    "dailyMinutesDown": {
-      "2023-08-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "jhsnet.net/english",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 141,
-    "timeWeek": 145,
+    "timeDay": 152,
+    "timeWeek": 144,
     "timeMonth": 148,
     "timeYear": 149,
-    "dailyMinutesDown": {
-      "2023-08-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "zutsu-online.jp",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 836,
-    "timeWeek": 836,
-    "timeMonth": 848,
-    "timeYear": 848,
+    "time": 857,
+    "timeDay": 978,
+    "timeWeek": 827,
+    "timeMonth": 857,
+    "timeYear": 857,
     "dailyMinutesDown": {}
   }
 ]

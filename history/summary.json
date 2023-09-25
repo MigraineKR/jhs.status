@@ -4,10 +4,10 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 924,
@@ -15,7 +15,9 @@
     "timeWeek": 781,
     "timeMonth": 1032,
     "timeYear": 924,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 1
+    }
   },
   {
     "name": "jhsnet.net/english",

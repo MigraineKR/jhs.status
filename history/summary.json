@@ -42,17 +42,17 @@
     "slug": "zutsu-online-jp",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 911,
+    "time": 910,
     "timeDay": 3705,
     "timeWeek": 2329,
     "timeMonth": 1309,
-    "timeYear": 911,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2024-02-07": 34
+      "2024-02-07": 29
     }
   }
 ]

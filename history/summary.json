@@ -40,17 +40,19 @@
     "url": "https://zutsu-online.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/zutsu-online.jp.ico",
     "slug": "zutsu-online-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 712,
-    "timeWeek": 722,
-    "timeMonth": 748,
-    "timeYear": 802,
-    "dailyMinutesDown": {}
+    "time": 855,
+    "timeDay": 5584,
+    "timeWeek": 1939,
+    "timeMonth": 1052,
+    "timeYear": 855,
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   }
 ]

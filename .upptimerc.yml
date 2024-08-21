@@ -16,8 +16,6 @@ status-website:
   introTitle: "**Status** for Japanese Headache Society"
   introMessage: 日本頭痛学会 ウェブモニター
   navbar:
-    - title: Status
-      href: /
     - title: Website
       href: https://www.jhsnet.net/
     - title: Newsletter

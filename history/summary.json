@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 983,
-    "timeDay": 813,
-    "timeWeek": 902,
-    "timeMonth": 1036,
-    "timeYear": 974,
+    "timeDay": 965,
+    "timeWeek": 906,
+    "timeMonth": 1048,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2025-03-12": 57
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 127,
-    "timeWeek": 139,
-    "timeMonth": 147,
-    "timeYear": 152,
+    "timeDay": 174,
+    "timeWeek": 140,
+    "timeMonth": 148,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2025-03-12": 57
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 727,
-    "timeDay": 568,
-    "timeWeek": 636,
-    "timeMonth": 706,
-    "timeYear": 727,
+    "timeDay": 689,
+    "timeWeek": 626,
+    "timeMonth": 710,
+    "timeYear": 728,
     "dailyMinutesDown": {}
   }
 ]

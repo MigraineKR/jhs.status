@@ -6,9 +6,9 @@
     "slug": "jhsnet-net",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 968,
     "timeDay": 607,
@@ -16,7 +16,6 @@
     "timeMonth": 868,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2025-12-14": 8,
       "2025-11-21": 27,
       "2025-11-01": 18,
       "2025-03-12": 57
@@ -29,9 +28,9 @@
     "slug": "jhsnet-net-english",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 151,
     "timeDay": 114,
@@ -39,7 +38,6 @@
     "timeMonth": 144,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-12-14": 8,
       "2025-11-21": 27,
       "2025-11-01": 18,
       "2025-03-12": 57

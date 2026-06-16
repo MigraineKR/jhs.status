@@ -4,16 +4,16 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "85.45%",
-    "uptimeMonth": "96.52%",
-    "uptimeYear": "99.40%",
-    "time": 1003,
-    "timeDay": 861,
-    "timeWeek": 846,
-    "timeMonth": 1037,
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "84.80%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "99.39%",
+    "time": 1004,
+    "timeDay": 1227,
+    "timeWeek": 871,
+    "timeMonth": 1044,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2025-11-01": 18,
@@ -55,7 +55,8 @@
       "2026-06-11": 311,
       "2026-06-13": 314,
       "2026-06-14": 298,
-      "2026-06-15": 5
+      "2026-06-16": 27,
+      "2026-06-15": 44
     }
   },
   {
@@ -63,17 +64,17 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "85.93%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "85.28%",
+    "uptimeMonth": "96.49%",
+    "uptimeYear": "99.39%",
     "time": 212,
-    "timeDay": 791,
-    "timeWeek": 742,
-    "timeMonth": 880,
-    "timeYear": 231,
+    "timeDay": 587,
+    "timeWeek": 725,
+    "timeMonth": 867,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2025-11-01": 18,
       "2025-11-21": 27,
@@ -115,7 +116,8 @@
       "2026-06-11": 302,
       "2026-06-13": 309,
       "2026-06-14": 288,
-      "2026-06-15": 0
+      "2026-06-16": 27,
+      "2026-06-15": 39
     }
   },
   {
@@ -130,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
-    "timeDay": 663,
-    "timeWeek": 748,
-    "timeMonth": 707,
+    "timeDay": 471,
+    "timeWeek": 694,
+    "timeMonth": 696,
     "timeYear": 700,
     "dailyMinutesDown": {}
   }

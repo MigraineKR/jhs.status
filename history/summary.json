@@ -6,11 +6,11 @@
     "slug": "jhsnet-net",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "78.36%",
-    "uptimeWeek": "86.70%",
-    "uptimeMonth": "94.15%",
-    "uptimeYear": "99.20%",
-    "time": 1004,
+    "uptimeDay": "70.78%",
+    "uptimeWeek": "85.62%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "99.18%",
+    "time": 1005,
     "timeDay": 849,
     "timeWeek": 804,
     "timeMonth": 1024,
@@ -60,7 +60,7 @@
       "2026-06-18": 473,
       "2026-06-19": 187,
       "2026-06-20": 307,
-      "2026-06-21": 5
+      "2026-06-21": 114
     }
   },
   {
@@ -68,17 +68,17 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "79.37%",
-    "uptimeWeek": "87.13%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "99.21%",
-    "time": 223,
-    "timeDay": 985,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "71.78%",
+    "uptimeWeek": "86.05%",
+    "uptimeMonth": "94.09%",
+    "uptimeYear": "99.19%",
+    "time": 224,
+    "timeDay": 910,
     "timeWeek": 753,
-    "timeMonth": 871,
-    "timeYear": 244,
+    "timeMonth": 868,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-01": 18,
       "2025-11-21": 27,
@@ -125,7 +125,7 @@
       "2026-06-18": 463,
       "2026-06-19": 182,
       "2026-06-20": 297,
-      "2026-06-21": 0
+      "2026-06-21": 109
     }
   },
   {

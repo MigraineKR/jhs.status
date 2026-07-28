@@ -4,17 +4,17 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "95.58%",
-    "uptimeWeek": "85.15%",
-    "uptimeMonth": "92.21%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "86.27%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "98.29%",
-    "time": 997,
-    "timeDay": 2810,
-    "timeWeek": 1254,
-    "timeMonth": 1018,
-    "timeYear": 1017,
+    "time": 996,
+    "timeDay": 850,
+    "timeWeek": 1275,
+    "timeMonth": 1030,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2025-11-01": 18,
       "2025-11-21": 27,
@@ -89,7 +89,8 @@
       "2026-07-24": 158,
       "2026-07-25": 303,
       "2026-07-26": 365,
-      "2026-07-27": 64
+      "2026-07-27": 64,
+      "2026-07-28": 5
     }
   },
   {
@@ -97,17 +98,17 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "85.73%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "86.82%",
+    "uptimeMonth": "92.63%",
     "uptimeYear": "98.33%",
-    "time": 313,
-    "timeDay": 733,
-    "timeWeek": 1248,
-    "timeMonth": 1062,
-    "timeYear": 370,
+    "time": 315,
+    "timeDay": 856,
+    "timeWeek": 1270,
+    "timeMonth": 1075,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2025-11-01": 18,
       "2025-11-21": 27,
@@ -183,7 +184,8 @@
       "2026-07-24": 148,
       "2026-07-25": 293,
       "2026-07-26": 350,
-      "2026-07-27": 59
+      "2026-07-27": 59,
+      "2026-07-28": 0
     }
   },
   {
@@ -198,10 +200,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 704,
-    "timeDay": 479,
-    "timeWeek": 631,
-    "timeMonth": 679,
-    "timeYear": 692,
+    "timeDay": 665,
+    "timeWeek": 620,
+    "timeMonth": 686,
+    "timeYear": 691,
     "dailyMinutesDown": {}
   }
 ]

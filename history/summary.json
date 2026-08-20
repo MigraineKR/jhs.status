@@ -4,17 +4,17 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "79.59%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "89.54%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "78.53%",
+    "uptimeWeek": "91.27%",
+    "uptimeMonth": "89.53%",
     "uptimeYear": "98.28%",
-    "time": 1006,
-    "timeDay": 812,
-    "timeWeek": 1013,
+    "time": 1007,
+    "timeDay": 827,
+    "timeWeek": 1011,
     "timeMonth": 1082,
-    "timeYear": 1015,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2026-06-16": 27,
       "2026-06-15": 44,
@@ -72,7 +72,7 @@
       "2026-08-17": 31,
       "2026-08-18": 111,
       "2026-08-19": 57,
-      "2026-08-20": 294
+      "2026-08-20": 309
     }
   },
   {
@@ -80,17 +80,17 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "81.61%",
-    "uptimeWeek": "92.80%",
-    "uptimeMonth": "90.38%",
+    "uptimeDay": "80.55%",
+    "uptimeWeek": "92.65%",
+    "uptimeMonth": "90.37%",
     "uptimeYear": "98.25%",
-    "time": 393,
-    "timeDay": 716,
-    "timeWeek": 812,
-    "timeMonth": 933,
-    "timeYear": 461,
+    "time": 395,
+    "timeDay": 775,
+    "timeWeek": 821,
+    "timeMonth": 935,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2026-06-11": 85,
       "2026-06-13": 309,
@@ -151,7 +151,7 @@
       "2026-08-17": 26,
       "2026-08-18": 80,
       "2026-08-19": 47,
-      "2026-08-20": 265
+      "2026-08-20": 280
     }
   },
   {
@@ -166,10 +166,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 700,
-    "timeDay": 755,
-    "timeWeek": 651,
-    "timeMonth": 659,
-    "timeYear": 689,
+    "timeDay": 691,
+    "timeWeek": 648,
+    "timeMonth": 658,
+    "timeYear": 690,
     "dailyMinutesDown": {}
   }
 ]

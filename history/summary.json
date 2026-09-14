@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "89.94%",
-    "uptimeMonth": "91.58%",
-    "uptimeYear": "98.34%",
+    "uptime": "99.46%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "91.20%",
+    "uptimeYear": "98.30%",
     "time": 995,
     "timeDay": 559,
     "timeWeek": 1230,
@@ -67,7 +67,7 @@
       "2026-09-10": 588,
       "2026-09-11": 48,
       "2026-09-12": 105,
-      "2026-09-14": 5
+      "2026-09-14": 171
     }
   },
   {
@@ -76,11 +76,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "98.34%",
+    "uptime": "99.47%",
+    "uptimeDay": "88.47%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "91.84%",
+    "uptimeYear": "98.31%",
     "time": 423,
     "timeDay": 561,
     "timeWeek": 1366,
@@ -144,7 +144,7 @@
       "2026-09-10": 573,
       "2026-09-11": 48,
       "2026-09-12": 100,
-      "2026-09-14": 0
+      "2026-09-14": 166
     }
   },
   {
